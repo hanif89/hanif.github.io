@@ -419,7 +419,7 @@ section .aboutme{
   width: 50%;
 }
 
-/* The circles on the timeline */
+/* The circles on the timeline 
 .container::after {
   content: '';
   position: absolute;
@@ -431,7 +431,7 @@ section .aboutme{
   top: 15px;
   border-radius: 50%;
   z-index: 1;
-}
+}*/
 
 /* Place the container to the left */
 .left {
